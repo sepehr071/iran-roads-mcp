@@ -1,0 +1,65 @@
+{
+ "data": {
+  "corridors": [
+   {
+    "id": 11,
+    "user_id": 1,
+    "source_name": "تهران",
+    "source_lat": "35.720315",
+    "source_lon": "51.418762",
+    "destination_name": "آمل",
+    "destination_lat": "36.473548",
+    "destination_lon": "52.351570",
+    "links": "https://blog.141.ir/category/category/tehran-amol/",
+    "cameras": null,
+    "axis_name": "محور تهران - آمل (محور هراز)",
+    "image_path": "corridors/محور تهران - آمل (محور هراز)-2bcbdc40-59d1-11ed-be0d-134ba1323baf.jpg",
+    "created_at": "2022-11-01T10:37:23.000000Z",
+    "updated_at": "2024-03-16T10:17:31.000000Z",
+    "axis_name_en": "tehran-amol",
+    "complaint_count": 1056,
+    "full_image_path": "https://api.141.ir/storage/corridors/محور تهران - آمل (محور هراز)-2bcbdc40-59d1-11ed-be0d-134ba1323baf.jpg"
+   },
+   {
+    "id": 12,
+    "user_id": 1,
+    "source_name": "تهران",
+    "source_lat": "35.704426",
+    "source_lon": "51.388550",
+    "destination_name": "رشت",
+    "destination_lat": "37.281770",
+    "destination_lon": "49.587822",
+    "links": "https://blog.141.ir/category/category/tehran-rasht/",
+    "cameras": null,
+    "axis_name": "محور تهران - رشت",
+    "image_path": "corridors/محور تهران - رشت-53c53200-59d1-11ed-8b9e-79db638f4222.jpg",
+    "created_at": "2022-11-01T10:38:30.000000Z",
+    "updated_at": "2024-03-16T10:17:28.000000Z",
+    "axis_name_en": "tehran-rasht",
+    "complaint_count": 2067,
+    "full_image_path": "https://api.141.ir/storage/corridors/محور تهران - رشت-53c53200-59d1-11ed-8b9e-79db638f4222.jpg"
+   },
+   {
+    "id": 13,
+    "user_id": 1,
+    "source_name": "تهران",
+    "source_lat": "35.697735",
+    "source_lon": "51.394043",
+    "destination_name": "قائم شهر",
+    "destination_lat": "36.403600",
+    "destination_lon": "52.855225",
+    "links": "https://blog.141.ir/category/category/tehran-ghaemshahr/",
+    "cameras": null,
+    "axis_name": "تهران - قائم شهر  (محور فیروزکوه)",
+    "image_path": "corridors/تهران - قائم شهر  (محور فیروزکوه)-773a2e80-59d1-11ed-934f-1d2015a7d8f0.jpg",
+    "created_at": "2022-11-01T10:39:30.000000Z",
+    "updated_at": "2024-10-14T09:29:10.000000Z",
+    "axis_name_en": "tehran-firuzkuh",
+    "complaint_count": 1080,
+    "full_image_path": "https://api.141.ir/storage/corridors/تهران - قائم شهر  (محور فیروزکوه)-773a2e80-59d1-11ed-934f-1d2015a7d8f0.jpg"
+   }
+  ]
+ },
+ "message": "عملیات موفقیت آمیز بود.",
+ "error_code": 0
+}

@@ -1,0 +1,20 @@
+{
+ "data": {
+  "provinces": [
+   {
+    "id": 1,
+    "name_fa": "آذربایجان شرقی",
+    "name_en": "azarbayjan-sharghi",
+    "center_lat": "38.0742",
+    "center_lon": "46.2962"
+   },
+   {
+    "id": 2,
+    "name_fa": "آذربایجان غربی",
+    "name_en": "azarbayjan-gharbi",
+    "center_lat": "37.5495",
+    "center_lon": "45.0683"
+   }
+  ]
+ }
+}
