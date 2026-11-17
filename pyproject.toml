@@ -1,9 +1,9 @@
 [project]
 name = "iran-roads-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Unofficial read-only MCP server for Iran road status (141.ir, Road Maintenance and Transportation Organization): bulletins, closures, restrictions, road works, weather warnings."
 readme = "README.md"
-license = "MIT"
+license = "PolyForm-Noncommercial-1.0.0"
 license-files = ["LICENSE"]
 authors = [{ name = "Sepehr Radmard", email = "sepehrr80@gmail.com" }]
 requires-python = ">=3.10"
