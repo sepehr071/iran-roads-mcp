@@ -83,10 +83,6 @@ Real answer (17 Nov 2026): `rd_closures` returned 5 closures in total, among the
 - The tools read the same API the 141.ir page calls. Counts were matched against the page's banner and slideshow, not field by field against the page.
 - Texts are Persian official announcements. The traffic map tool returns an image URL, not the image.
 
-## How it works
-
-141.ir has no documented public API. The server calls the JSON routes of api.141.ir that the site itself uses, always sending a JSON `Accept` header (Laravel answers errors with a redirect otherwise). The routes were mapped in a real browser and the 141.ir page counts (81 road works, 1 police restriction, 5 closures, 1 weather warning) were checked in Chrome against the tool totals. Requests present Chrome's TLS fingerprint, run two at a time with a short cache.
-
 ## فارسی
 
 <div dir="rtl">
