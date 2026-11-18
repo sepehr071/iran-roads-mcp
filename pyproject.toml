@@ -1,6 +1,6 @@
 [project]
 name = "iran-roads-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for Iran road status (141.ir, Road Maintenance and Transportation Organization): bulletins, closures, restrictions, road works, weather warnings."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
